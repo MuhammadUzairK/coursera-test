@@ -70,13 +70,7 @@ h2.s{
 		float: left;
 		
 	}
-/*** for small devices  **/
-@media(max-width:761px ){
-	  
-  .col-md-6{
-		width:50%;
-		float: left;
-		
-	}
+
+
 }
 
